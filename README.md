@@ -93,7 +93,7 @@ While the model is performing well, there are several ways to enhance it further
 
 ## Deployment on Hugging Face
 
-Once the model was trained, I deployed it on **Hugging Face** to make it accessible to everyone. Hugging Face Spaces offers a user-friendly interface where anyone can test the model in real time. You can try it out here: [Foodvision Extended](https://huggingface.co/spaces/vapit/Foodvision-Extended) 
+Once the model was trained, I deployed it on **Hugging Face** to make it accessible to everyone. Hugging Face Spaces offers a user-friendly interface where anyone can test the model in real time. You can try it out here: [Foodvision Extended](https://huggingface.co/spaces/vapit/foodvision_extended) 
 
 ## What's Next?
 
@@ -107,4 +107,4 @@ If you’re working on similar projects, want to collaborate, or simply want to 
 
 
 ## Live Demo
-Test out the model live on Hugging Face Spaces: [FoodVision Extended](https://huggingface.co/spaces/vapit/Foodvision-Extended) 
+Test out the model live on Hugging Face Spaces: [FoodVision Extended](https://huggingface.co/spaces/vapit/foodvision_extended) 
