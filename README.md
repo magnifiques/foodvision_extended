@@ -1,4 +1,7 @@
+![1728345339413](https://github.com/user-attachments/assets/799c1100-4058-44c4-ab8a-5c7dab1539d4)
+
 # FoodVision Extended 🍔🥗🍕
+
 
 Welcome to **FoodVision Extended**! This project builds upon the original **FoodVision Mini** to classify **20 different food items** using deep learning, specifically leveraging **Vision Transformers (ViT)**. From handling the Food101 dataset to deploying the model on Hugging Face, this project explores food classification on a larger, more complex scale.
 
@@ -38,6 +41,7 @@ Through these upgrades, my goal was not just to recreate what FoodVision Mini ha
 
 For this extended model, I worked with the Food101 dataset, a large collection of images featuring 101 different types of food. However, to keep my focus narrow and manageable, I selected 20 diverse food categories that would still provide ample variety for the training process while ensuring the training time remained reasonable. The Food101 dataset provided a solid foundation for training, with diverse and challenging examples across all 20 selected categories. This diversity pushed the model to capture fine details, making it a great learning experience in balancing data diversity and model performance.
 
+![1728346573628](https://github.com/user-attachments/assets/a93f45c4-a988-4e31-a508-adcc0459840d)
 
 ## Dataset Details: Image Distribution
 
@@ -77,6 +81,8 @@ Here’s how the model performed after 20 epochs of training:
 
 Although the model isn’t perfect (about 86% accuracy overall), it performs well in predicting the majority of food items accurately and quickly! This is a significant improvement from my original model, and I plan to keep refining it to improve these metrics further.
 
+![1728346217749](https://github.com/user-attachments/assets/86d6ea2b-a7d5-46fa-9878-ca8a258f36e0)
+
 ## How Can the Model Be Improved?
 
 While the model is performing well, there are several ways to enhance it further:
@@ -100,7 +106,5 @@ Building and deploying this food classification model was a rewarding experience
 If you’re working on similar projects, want to collaborate, or simply want to learn how I accomplished this, feel free to reach out! I’d love to connect and hear your thoughts!
 
 
-
-
 ## Live Demo
-Test out the model live on Hugging Face Spaces: [FoodVision Extended](https://huggingface.co/spaces/vapit/Foodvision-Extended) 🎉
+Test out the model live on Hugging Face Spaces: [FoodVision Extended](https://huggingface.co/spaces/vapit/Foodvision-Extended) 
